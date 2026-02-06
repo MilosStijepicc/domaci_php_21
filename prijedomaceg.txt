@@ -1,0 +1,16 @@
+U folderu Models se nalaze sve klase i struktura, 
+malo je mozda nepregledno ali evo strukture i naziva:
+
+    Pas     Kokoska         Riba        Meduza
+
+        ||                         ||
+
+    KopnenaZivotinja       VodenaZivotinja
+
+                      ||
+
+                    Zivotinja
+
+Vjerovatno sam mogao da imenujem KopnenaZivotinja kao Kopnena ali meni je bilo lakse nekako da imenujem full name.
+
+Ispisujemo sve u ispisDomaceg.php
